@@ -1,7 +1,7 @@
 # Mi-Mix2s-ROMs  
 
 小米 Mix2s ROMs 分享，仅类原生。  
-Mi Mix2s ROMs Share, Only native-like systems.  
+Mi Mix2s ROMs Share, Only Native-like Systems.  
 
 [Android 8](A8.MD)  
 [Android 9](A9.MD)  
