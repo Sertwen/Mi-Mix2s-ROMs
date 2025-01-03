@@ -1,4 +1,4 @@
-# Mi-Mix2s-ROMs  
+# Mi-Mix2s-ROMs
 
 小米 Mix2s ROMs 分享，仅类原生。  
 Mi Mix2s ROMs Share, Only Native-like Systems.  
