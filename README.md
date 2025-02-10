@@ -45,3 +45,9 @@ https://cloud.189.cn/t/mE7VBnJZVJNb
 
 Microsoft OneDrive:  
 https://1drv.ms/f/c/3b9538e9da817f83/EgfiSPBNSJ5JgpsONq9_C6EBZPqcU4FlGS4gLsMIuTrUXg?e=8L1OUy  
+
+-------------------------
+
+## Other ROMs （萤火虫资源站）
+
+[https://www.yhcres.top/02-手机平板/小米Xiaomi%20红米Redmi/小米/小米MIX系列/小米MIX2S（polaris）](https://www.yhcres.top/02-%E6%89%8B%E6%9C%BA%E5%B9%B3%E6%9D%BF/%E5%B0%8F%E7%B1%B3Xiaomi%20%E7%BA%A2%E7%B1%B3Redmi/%E5%B0%8F%E7%B1%B3/%E5%B0%8F%E7%B1%B3MIX%E7%B3%BB%E5%88%97/%E5%B0%8F%E7%B1%B3MIX2S%EF%BC%88polaris%EF%BC%89)
