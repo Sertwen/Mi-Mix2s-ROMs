@@ -16,4 +16,4 @@ Post: https://www.coolapk.com/feed/71241053
 Link: https://github.com/Luoxue520QwQ/LineageOS_Xiaomi_Mi_Mix_2S/releases
 
 ## PixelOS by InvisibleBlank
-Post: https://www.coolapk.com/feed/71232062
+Post: https://www.coolapk.com/feed/71685498
